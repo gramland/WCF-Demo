@@ -1,0 +1,11 @@
+C:\IHelloRemotingService\HelloRemotingServiceClient\bin\Debug\HelloRemotingServiceClient.exe
+C:\IHelloRemotingService\HelloRemotingServiceClient\bin\Debug\HelloRemotingServiceClient.pdb
+C:\IHelloRemotingService\HelloRemotingServiceClient\bin\Debug\IHelloRemotingService.dll
+C:\IHelloRemotingService\HelloRemotingServiceClient\bin\Debug\IHelloRemotingService.pdb
+C:\IHelloRemotingService\HelloRemotingServiceClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\IHelloRemotingService\HelloRemotingServiceClient\obj\x86\Debug\HelloRemotingServiceClient.Form1.resources
+C:\IHelloRemotingService\HelloRemotingServiceClient\obj\x86\Debug\HelloRemotingServiceClient.Properties.Resources.resources
+C:\IHelloRemotingService\HelloRemotingServiceClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\IHelloRemotingService\HelloRemotingServiceClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\IHelloRemotingService\HelloRemotingServiceClient\obj\x86\Debug\HelloRemotingServiceClient.exe
+C:\IHelloRemotingService\HelloRemotingServiceClient\obj\x86\Debug\HelloRemotingServiceClient.pdb

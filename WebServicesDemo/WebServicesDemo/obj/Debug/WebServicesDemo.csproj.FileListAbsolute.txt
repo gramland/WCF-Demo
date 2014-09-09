@@ -1,0 +1,5 @@
+C:\WebServicesDemo\WebServicesDemo\bin\WebServicesDemo.dll
+C:\WebServicesDemo\WebServicesDemo\bin\WebServicesDemo.pdb
+C:\WebServicesDemo\WebServicesDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\WebServicesDemo\WebServicesDemo\obj\Debug\WebServicesDemo.dll
+C:\WebServicesDemo\WebServicesDemo\obj\Debug\WebServicesDemo.pdb

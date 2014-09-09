@@ -1,0 +1,5 @@
+C:\IHelloRemotingService\IHelloRemotingService\bin\Debug\IHelloRemotingService.dll
+C:\IHelloRemotingService\IHelloRemotingService\bin\Debug\IHelloRemotingService.pdb
+C:\IHelloRemotingService\IHelloRemotingService\obj\Debug\ResolveAssemblyReference.cache
+C:\IHelloRemotingService\IHelloRemotingService\obj\Debug\IHelloRemotingService.dll
+C:\IHelloRemotingService\IHelloRemotingService\obj\Debug\IHelloRemotingService.pdb

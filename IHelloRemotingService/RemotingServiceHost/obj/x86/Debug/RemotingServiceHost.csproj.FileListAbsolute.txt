@@ -1,0 +1,9 @@
+C:\IHelloRemotingService\RemotingServiceHost\bin\Debug\RemotingServiceHost.exe
+C:\IHelloRemotingService\RemotingServiceHost\bin\Debug\RemotingServiceHost.pdb
+C:\IHelloRemotingService\RemotingServiceHost\bin\Debug\HelloRemotingService.dll
+C:\IHelloRemotingService\RemotingServiceHost\bin\Debug\IHelloRemotingService.dll
+C:\IHelloRemotingService\RemotingServiceHost\bin\Debug\HelloRemotingService.pdb
+C:\IHelloRemotingService\RemotingServiceHost\bin\Debug\IHelloRemotingService.pdb
+C:\IHelloRemotingService\RemotingServiceHost\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\IHelloRemotingService\RemotingServiceHost\obj\x86\Debug\RemotingServiceHost.exe
+C:\IHelloRemotingService\RemotingServiceHost\obj\x86\Debug\RemotingServiceHost.pdb

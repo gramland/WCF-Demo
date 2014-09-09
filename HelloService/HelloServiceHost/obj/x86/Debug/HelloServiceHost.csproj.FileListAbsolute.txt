@@ -1,0 +1,8 @@
+C:\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe.config
+C:\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe
+C:\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.pdb
+C:\HelloService\HelloServiceHost\bin\Debug\HelloService.dll
+C:\HelloService\HelloServiceHost\bin\Debug\HelloService.pdb
+C:\HelloService\HelloServiceHost\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\HelloService\HelloServiceHost\obj\x86\Debug\HelloServiceHost.exe
+C:\HelloService\HelloServiceHost\obj\x86\Debug\HelloServiceHost.pdb
